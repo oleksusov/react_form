@@ -1,9 +1,8 @@
-# React TypeScript Starter Pack
+# React Form
 
-To use this template click `Use this template`
+A registration form.
 
-### Available Scripts
+Technologies: React, JavaScript.
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+- [Demo Link](https://oleksusov.github.io/react_form/)
+- [GitHub](https://github.com/oleksusov/react_form/tree/develop)

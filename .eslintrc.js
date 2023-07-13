@@ -13,6 +13,21 @@ module.exports = {
     semi: 0,
     'no-proto': 0,
     'no-unused-vars': 0,
+    'jsx-a11y/label-has-associated-control': [
+      2,
+      {
+        'labelComponents': [
+          'FormLabel'
+        ],
+        'labelAttributes': [
+          'label'
+        ],
+        'controlComponents': [
+          'input'
+        ],
+        'depth': 1
+      }
+    ],
 
     // TypeScript
     '@typescript-eslint/no-unused-vars': ['error'],
